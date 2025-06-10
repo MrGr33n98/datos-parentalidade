@@ -1,5 +1,3 @@
-Sure, here's the contents for the file: /datos-parentalidade/datos-parentalidade/requirements.txt
-
 pandas
 numpy
 matplotlib
