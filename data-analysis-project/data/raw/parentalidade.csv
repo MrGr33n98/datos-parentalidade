@@ -1,0 +1,15 @@
+data-analysis-project
+├── data
+│   ├── raw
+│   │   └── parentalidade.csv
+│   └── processed
+│       └── cleaned_data.csv
+├── notebooks
+│   └── analysis.ipynb
+├── src
+│   ├── preprocessing
+│   │   └── clean_data.py
+│   └── visualization
+│       └── plots.py
+├── requirements.txt
+└── README.md
